@@ -232,6 +232,7 @@ np.save('./test_y.npy',test_set_y)
 # Visualize the loss graph
 
 plt.plot(Loss)
+plt.show()
     
 
     
