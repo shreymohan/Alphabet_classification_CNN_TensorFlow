@@ -30,6 +30,7 @@ test_set_y=np.zeros([num_test,62])
 
 train_index=0
 test_index=0
+# Construcing training and testing sets
 for folder in directory:
     item_count=0
     item_count_test=0
